@@ -1,8 +1,21 @@
-# Pi 中文文档
+# Pi 中文文档 | Pi Chinese Documentation
+
+> Pi AI agent toolkit 中文文档：coding agent CLI、unified LLM API、TUI 终端界面库、agent runtime
 
 Pi Coding Agent 的中文翻译文档站点，基于 [VitePress](https://vitepress.dev/) 构建。
 
 原始文档来自 [earendil-works/pi](https://github.com/earendil-works/pi/tree/main/packages/coding-agent/docs)。
+
+## 关于 Pi
+
+[Pi](https://github.com/earendil-works/pi) 是一个 AI agent 工具包（AI agent toolkit），包含：
+
+- **Pi Coding Agent CLI** - 交互式编程代理命令行工具（interactive coding agent）
+- **Pi Agent Core** - Agent 运行时，支持 tool calling 和状态管理
+- **Pi AI** - 统一的多供应商 LLM API（支持 OpenAI、Anthropic、Google 等）
+- **Pi TUI** - 终端 UI 库
+
+**关键词 / Keywords**: pi, pi-agent, coding-agent, ai-agent, llm, cli, typescript, tool-calling, agent-runtime, openai, anthropic, google, vllm, tui, terminal-ui, ai-coding-assistant, earendil-works
 
 ## 快速开始
 
