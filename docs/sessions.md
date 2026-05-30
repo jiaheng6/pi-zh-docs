@@ -70,7 +70,7 @@ pi --name "CI audit" -p "Review this build failure"
 
 会话以树形结构存储。每个条目都有 `id` 和 `parentId`，当前位置是活动叶子节点。`/tree` 让你跳转到任何之前的节点并从那里继续，而无需创建新文件。
 
-<p align="center"><img src="images/tree-view.png" alt="树形视图" width="600"></p>
+<p align="center"><img src="./images/tree-view.png" alt="树形视图" width="600"></p>
 
 示例结构：
 

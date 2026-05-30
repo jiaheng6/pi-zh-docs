@@ -1,8 +1,47 @@
 # Pi 中文文档
 
-Pi Coding Agent 的中文翻译文档站点。
+Pi Coding Agent 的中文翻译文档站点，基于 [VitePress](https://vitepress.dev/) 构建。
 
 原始文档来自 [earendil-works/pi](https://github.com/earendil-works/pi/tree/main/packages/coding-agent/docs)。
+
+## 快速开始
+
+### 安装依赖
+
+```bash
+npm install
+```
+
+### 本地开发
+
+```bash
+npm run dev
+```
+
+启动后访问 `http://localhost:5173` 查看文档站点。
+
+### 构建部署
+
+```bash
+npm run build
+```
+
+构建产物在 `docs/.vitepress/dist` 目录中，可以部署到任何静态托管服务（如 GitHub Pages、Vercel、Netlify 等）。
+
+### 预览构建结果
+
+```bash
+npm run preview
+```
+
+## 部署到 GitHub Pages
+
+本项目已配置 GitHub Actions 自动部署。推送到 `main` 分支后会自动构建并部署到 GitHub Pages。
+
+手动部署步骤：
+
+1. 在仓库 Settings > Pages 中，将 Source 设置为 "GitHub Actions"
+2. 推送代码到 `main` 分支即可触发自动部署
 
 ## 文档目录
 

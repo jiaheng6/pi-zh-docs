@@ -4,7 +4,7 @@
 
 ## 交互模式
 
-<p align="center"><img src="images/interactive-mode.png" alt="交互模式" width="600"></p>
+<p align="center"><img src="./images/interactive-mode.png" alt="交互模式" width="600"></p>
 
 界面有四个主要区域：
 
