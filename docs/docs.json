@@ -126,11 +126,65 @@
       ]
     },
     {
+      "title": "Packages",
+      "items": [
+        {
+          "title": "Project Overview",
+          "path": "project-readme.md"
+        },
+        {
+          "title": "Coding Agent CLI",
+          "path": "coding-agent-package.md"
+        },
+        {
+          "title": "AI Package",
+          "path": "ai-package.md"
+        },
+        {
+          "title": "Agent Core",
+          "path": "agent-package.md"
+        },
+        {
+          "title": "TUI Package",
+          "path": "tui-package.md"
+        }
+      ]
+    },
+    {
+      "title": "Architecture",
+      "items": [
+        {
+          "title": "Hooks Design",
+          "path": "hooks.md"
+        },
+        {
+          "title": "Observability",
+          "path": "observability.md"
+        },
+        {
+          "title": "Agent Harness",
+          "path": "agent-harness.md"
+        },
+        {
+          "title": "Durable Harness",
+          "path": "durable-harness.md"
+        }
+      ]
+    },
+    {
       "title": "Development",
       "items": [
         {
           "title": "Development",
           "path": "development.md"
+        },
+        {
+          "title": "Contributing",
+          "path": "contributing.md"
+        },
+        {
+          "title": "Development Rules",
+          "path": "agents.md"
         }
       ]
     }
