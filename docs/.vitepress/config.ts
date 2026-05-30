@@ -65,9 +65,30 @@ export default defineConfig({
         ]
       },
       {
+        text: '包文档',
+        items: [
+          { text: '项目概览', link: '/project-readme' },
+          { text: 'Coding Agent CLI', link: '/coding-agent-package' },
+          { text: 'AI 包', link: '/ai-package' },
+          { text: 'Agent Core', link: '/agent-package' },
+          { text: 'TUI 包', link: '/tui-package' }
+        ]
+      },
+      {
+        text: '架构设计',
+        items: [
+          { text: 'Hooks 设计', link: '/hooks' },
+          { text: '可观测性', link: '/observability' },
+          { text: 'Agent Harness', link: '/agent-harness' },
+          { text: '持久化 Harness', link: '/durable-harness' }
+        ]
+      },
+      {
         text: '开发',
         items: [
-          { text: '开发指南', link: '/development' }
+          { text: '开发指南', link: '/development' },
+          { text: '贡献指南', link: '/contributing' },
+          { text: '开发规则', link: '/agents' }
         ]
       }
     ],
