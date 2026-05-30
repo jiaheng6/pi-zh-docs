@@ -75,6 +75,23 @@ pi
 - [终端设置](terminal-setup.md)
 - [Shell 别名](shell-aliases.md)
 
+## 包文档
+
+- [项目概览](project-readme.md) - Pi 单体仓库结构和包概览。
+- [Coding Agent CLI](coding-agent-package.md) - 交互式编码代理 CLI 完整文档。
+- [AI 包](ai-package.md) - 统一多供应商 LLM API 文档。
+- [Agent Core](agent-package.md) - Agent 运行时、工具调用和状态管理。
+- [TUI 包](tui-package.md) - 终端 UI 框架完整文档。
+
+## 架构设计
+
+- [Hooks 设计](hooks.md) - AgentHarness Hooks 系统设计文档。
+- [可观测性](observability.md) - Pi 可观测性设计笔记。
+- [Agent Harness](agent-harness.md) - AgentHarness 生命周期文档。
+- [持久化 Harness](durable-harness.md) - 持久化 AgentHarness 和会话设计。
+
 ## 开发
 
 - [开发](development.md) - 本地设置、项目结构和调试。
+- [贡献指南](contributing.md) - 如何为 Pi 项目做贡献。
+- [开发规则](agents.md) - 代码质量、Git、发布等开发规则。

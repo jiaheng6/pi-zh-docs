@@ -84,3 +84,23 @@ npm run preview
 - [Termux 支持](docs/termux.md)
 - [Windows 设置](docs/windows.md)
 - [开发指南](docs/development.md)
+
+### 包文档
+
+- [项目概览](docs/project-readme.md)
+- [Coding Agent CLI](docs/coding-agent-package.md)
+- [AI 包](docs/ai-package.md)
+- [Agent Core](docs/agent-package.md)
+- [TUI 包](docs/tui-package.md)
+
+### 架构设计
+
+- [Hooks 设计](docs/hooks.md)
+- [可观测性](docs/observability.md)
+- [Agent Harness](docs/agent-harness.md)
+- [持久化 Harness](docs/durable-harness.md)
+
+### 开发
+
+- [贡献指南](docs/contributing.md)
+- [开发规则](docs/agents.md)
